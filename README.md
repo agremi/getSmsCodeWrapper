@@ -1,3 +1,4 @@
+<h1> GetSmsCOde wrapper</h1>
 This is a wrapper for GetSmsCode and it's written in java.It simplifies your chinese and Usa numbers management (i will add other countries in the future). The wrapper handles the creation of the correct url. There are 4 abstract classes and each one has 2 concrete implementations:
 -login
 -getNumber
